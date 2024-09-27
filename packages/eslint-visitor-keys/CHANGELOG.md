@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.2.0](https://github.com/amareshsm/espree/compare/eslint-visitor-keys-v4.1.0...eslint-visitor-keys-v4.2.0) (2024-09-27)
+
+
+### Features
+
+* add the `eslint-visitor-keys` package ([#620](https://github.com/amareshsm/espree/issues/620)) ([5903929](https://github.com/amareshsm/espree/commit/5903929cb65898ffdb6bea7d3fca99781f32ff09))
+
+
+### Bug Fixes
+
+* Update dependencies to avoid build failure ([#631](https://github.com/amareshsm/espree/issues/631)) ([e8cd107](https://github.com/amareshsm/espree/commit/e8cd107d732fb7ef62cd4f6cd179bd48f5c13b27))
+
 ## [4.1.0](https://github.com/eslint/js/compare/eslint-visitor-keys-v4.0.0...eslint-visitor-keys-v4.1.0) (2024-09-27)
 
 
