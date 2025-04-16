@@ -1,5 +1,27 @@
 # Changelog
 
+## [8.2.0](https://github.com/amareshsm/espree/compare/eslint-scope-v8.1.0...eslint-scope-v8.2.0) (2024-09-27)
+
+
+### Features
+
+* add the `eslint-scope` package ([#615](https://github.com/amareshsm/espree/issues/615)) ([2ecfb8b](https://github.com/amareshsm/espree/commit/2ecfb8ba460a73601b859fd10d000cee817d170c))
+
+
+### Bug Fixes
+
+* Remove node:assert dependency ([#633](https://github.com/amareshsm/espree/issues/633)) ([433a89d](https://github.com/amareshsm/espree/commit/433a89d18f556658751feb63f87303ebbf7b7cb7))
+* Update dependencies to avoid build failure ([#631](https://github.com/amareshsm/espree/issues/631)) ([e8cd107](https://github.com/amareshsm/espree/commit/e8cd107d732fb7ef62cd4f6cd179bd48f5c13b27))
+* update links to `eslint/js` repo ([#619](https://github.com/amareshsm/espree/issues/619)) ([956389a](https://github.com/amareshsm/espree/commit/956389ac150bd2394bc78a35c2a1f9d794f61ea8))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * eslint-visitor-keys bumped from ^4.1.0 to ^4.2.0
+    * espree bumped from ^10.2.0 to ^10.3.0
+
 ## [8.1.0](https://github.com/eslint/js/compare/eslint-scope-v8.0.2...eslint-scope-v8.1.0) (2024-09-27)
 
 
